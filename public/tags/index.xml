@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jian | 黄俭</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Jian | 黄俭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classic Music</title>
+      <link>/tags/classic-music/</link>
+      <pubDate>Fri, 11 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/classic-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self control</title>
+      <link>/tags/self-control/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/self-control/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

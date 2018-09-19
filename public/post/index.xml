@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jian | 黄俭</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Jian | 黄俭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TODO 20180919</title>
+      <link>/post/2018/09/18/todo-20180919/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/18/todo-20180919/</guid>
+      <description> 今日要务 看了谭显英博客用blogdown来管理工作事项
+就想自己每天在站上也列一个待办事项。比如今天剩下的时间里，要做以下事情：
+pandoc转Word和Pdf写一个备忘，包括Mactex非全盘安装的方法； 瘐繁师弟做的微镜控制算法研究及实验，写一个备忘； 英语句式的学习，不可中断，今天好好看看第二种句型； 写Mactex非全盘安装的那个家伙，有一篇谈机器学习的PPT，好好收藏；  </description>
+    </item>
+    
+    <item>
+      <title>狂犬疫苗</title>
+      <link>/post/2009/08/15/dog-bite/</link>
+      <pubDate>Sat, 15 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2009/08/15/dog-bite/</guid>
+      <description>上个月底，大双和小双在他们外婆家玩了两天。回来后，大双说他被狗咬了屁股。我们感到很惊讶，因为当时在黄泥河的时候，没有人听到大双哭。查看了一下他的小屁股，刚好有两个包，像是被蚊子咬了两下，其中一个包还有点破皮，但是包的周围没有淤青，不像是被狗咬了。
+保险起见，当晚还是去了防疫站，但那的人都下班了。
+第二天，给儿子打了疫苗，一共要打五针。8月29日打完。
+问了医生，即使伤口不是狗咬的，误打了疫苗也没有关系的。</description>
+    </item>
+    
+    <item>
+      <title>听古典音乐的好去处</title>
+      <link>/post/2008/07/11/classic-musuic/</link>
+      <pubDate>Fri, 11 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2008/07/11/classic-musuic/</guid>
+      <description>伊美姬网
+今天也是第一次访问该站。以后有心得再写在这里。
+先写一些笔记：
+序曲：两种（法式和意大利式）
+ 法式是：慢板-快板-慢板
+意大利式：快板-慢板-快板
+ </description>
+    </item>
+    
+  </channel>
+</rss>

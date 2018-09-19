@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jian | 黄俭</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Jian | 黄俭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Family</title>
+      <link>/categories/family/</link>
+      <pubDate>Sat, 15 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/categories/music/</link>
+      <pubDate>Fri, 11 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>/categories/work/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

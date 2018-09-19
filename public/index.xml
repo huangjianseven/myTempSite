@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文博客 on Jian | 黄俭</title>
+    <link>/</link>
+    <description>Recent content in 中文博客 on Jian | 黄俭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jian Huang&#39;s Home</title>
+      <link>/home/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>This Hugo theme was ported from Ivy, a minimalist website generator built in Python. I don&amp;rsquo;t have time to document it. You have to read the source code to understand what it can do. Like Ivy, this theme is also released under the Unlicense, which basically means you just do whatever you want.
+这是黄俭的个人主页。目前，我就职于云南曲靖师范学院，同时，也就读于重庆大学光电工程学院。最近两年，一个被人问得最多的问题就是：“你怎么还没毕业？”。轻度强迫症，中度拖延症，驱动方式有点被动，运动细胞已无法开发，演绎各类体育项目都像电影慢放。略好读书，时而科学上网乱翻帖子，喜欢摄影、旅行。对诗词楹联也比较感兴趣，目前最喜欢的一联是：演悲欢离合，当代岂无前代事。观抑扬褒贬，座中常有剧中人。最喜欢的一首词是：
+ 洞庭青草，近中秋、更无一点风色。玉鉴琼田三万顷，著我扁舟一叶。素月分辉，明河共影，表里俱澄澈。悠然心会，妙处难与君说。
+应念岭表经年，孤光自照，肝胆皆冰雪。短发萧疏襟袖冷，稳泛沧溟空阔。尽揖西江，细斟北斗，万象为宾客。扣舷独啸，不知今夕何夕。
+ </description>
+    </item>
+    
+    <item>
+      <title>TODO 20180919</title>
+      <link>/post/2018/09/18/todo-20180919/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/18/todo-20180919/</guid>
+      <description> 今日要务 看了谭显英博客用blogdown来管理工作事项
+就想自己每天在站上也列一个待办事项。比如今天剩下的时间里，要做以下事情：
+pandoc转Word和Pdf写一个备忘，包括Mactex非全盘安装的方法； 瘐繁师弟做的微镜控制算法研究及实验，写一个备忘； 英语句式的学习，不可中断，今天好好看看第二种句型； 写Mactex非全盘安装的那个家伙，有一篇谈机器学习的PPT，好好收藏；  </description>
+    </item>
+    
+    <item>
+      <title>狂犬疫苗</title>
+      <link>/post/2009/08/15/dog-bite/</link>
+      <pubDate>Sat, 15 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2009/08/15/dog-bite/</guid>
+      <description>上个月底，大双和小双在他们外婆家玩了两天。回来后，大双说他被狗咬了屁股。我们感到很惊讶，因为当时在黄泥河的时候，没有人听到大双哭。查看了一下他的小屁股，刚好有两个包，像是被蚊子咬了两下，其中一个包还有点破皮，但是包的周围没有淤青，不像是被狗咬了。
+保险起见，当晚还是去了防疫站，但那的人都下班了。
+第二天，给儿子打了疫苗，一共要打五针。8月29日打完。
+问了医生，即使伤口不是狗咬的，误打了疫苗也没有关系的。</description>
+    </item>
+    
+    <item>
+      <title>听古典音乐的好去处</title>
+      <link>/post/2008/07/11/classic-musuic/</link>
+      <pubDate>Fri, 11 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2008/07/11/classic-musuic/</guid>
+      <description>伊美姬网
+今天也是第一次访问该站。以后有心得再写在这里。
+先写一些笔记：
+序曲：两种（法式和意大利式）
+ 法式是：慢板-快板-慢板
+意大利式：快板-慢板-快板
+ </description>
+    </item>
+    
+    <item>
+      <title>关 于</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>我是谁 一个工作在云南的江西萍乡人。我喜欢这些片子：《肖申克的救赎》，《白日梦想家》，《怦然心动》等。我对排版效果有些强迫症，总想尽善尽美。我对美非常没有抵抗力，看到美的东西我就会拼命研究。有时候我很不靠谱，尤其是我发现了一件值得做的事情之后，就会归隐若干天把其它的事撂一边。</description>
+    </item>
+    
+  </channel>
+</rss>
