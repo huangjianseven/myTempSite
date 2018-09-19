@@ -19,7 +19,7 @@ tags: []
 
 最后，是谢大神写的书[blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 
-以后，多写博文，并搜集自己散落在Web各位的文字收集到这个站上。
+以后，多写博文，并搜集自己散落在Web上各个角落的文字，统一汇总到本站。
 
 目前域名：http://huangjianzone.netlify.com
 
