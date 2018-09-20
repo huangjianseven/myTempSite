@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2018/09/20/todo-20190920/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018/09/19/blogdown-create-website/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/home/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018/09/19/pandoc-file-conversion/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018/09/19/test-netlify-image-process/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,6 +59,12 @@
   </url>
   
   <url>
+    <loc>/tags/computer/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/family/</loc>
     <lastmod>2009-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -57,13 +78,13 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/self-control/</loc>
-    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,7 +96,7 @@
   
   <url>
     <loc>/categories/work/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -12,18 +12,27 @@
     
     
     <item>
+      <title>TODO 20190920</title>
+      <link>/post/2018/09/20/todo-20190920/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/20/todo-20190920/</guid>
+      <description> 今日要务 测试闻奕光电买的吸光度测量支架； 写完光谱仪大论文参数测试这一章； Forest中以种树的方式工作，只种8棵； 休息眼睛，保证睡眠；  </description>
+    </item>
+    
+    <item>
       <title>Blogdown搭建个人博客完成</title>
       <link>/post/2018/09/19/blogdown-create-website/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/09/19/blogdown-create-website/</guid>
-      <description>昨天晚上到今天上午，都要想依样画葫芦，把博客搞成自己理想中的样子。
-虽然，克隆了谢大神的站点，但是他那个还是太复杂，无法简单模仿。当然了，主要是自己的相关知识太缺乏。
+      <description>昨天晚上到今天上午，都想依样画葫芦，把博客搞成自己理想中的样子。
+首先，我克隆了谢大神的站点。接着，我琢磨着想在自己的站点上实现类似的一些效果。但是，失败了。因为，他那个还是太复杂，无法简单模仿。当然了，主要是自己的相关知识太缺乏。
 最后，还是回到昨天晚上的版本，只不过现在能够通过git更新了。
 给我巨大帮助的资料有钟浩光写的用 R 语言的 blogdown+hugo+netlify+github 建博客
 还有，当我始终上传不了站点到github的仓库时，看到了shiren1118写的github上的版本和本地版本冲突的解决方法.
 最后，是谢大神写的书blogdown: Creating Websites with R Markdown
-以后，多写博文，并搜集自己散落在Web各位的文字收集到这个站上。
+以后，多写博文，并搜集自己散落在Web上各个角落的文字，统一汇总到本站。
 目前域名：http://huangjianzone.netlify.com
 Hugo version: 0.48</description>
     </item>
@@ -39,6 +48,31 @@ Hugo version: 0.48</description>
  洞庭青草，近中秋、更无一点风色。玉鉴琼田三万顷，著我扁舟一叶。素月分辉，明河共影，表里俱澄澈。悠然心会，妙处难与君说。
 应念岭表经年，孤光自照，肝胆皆冰雪。短发萧疏襟袖冷，稳泛沧溟空阔。尽揖西江，细斟北斗，万象为宾客。扣舷独啸，不知今夕何夕。
  </description>
+    </item>
+    
+    <item>
+      <title>pandoc文件转换测试</title>
+      <link>/post/2018/09/19/pandoc-file-conversion/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/19/pandoc-file-conversion/</guid>
+      <description>Mac系统下试了试pandoc，确实是神器。Markdown转docx非常方便，公式什么的，也干得很利落。但是，我在用xelatex引擎转PDF时却遇到了中文字体方面的问题。
+用以下命令可以解决。
+pandoc --pdf-engine=xelatex -V CJKmainfont=&amp;quot;Songti SC&amp;quot; Introduction.md -o test1.pdf
+参见这里markdown with LaTeX。
+他这篇文档里还提到Mactex有一个精简版本，就像Miktex那样，只在有需要时下载必要的包。回想当初我装了2G多的完全版Mactex，有点吃了一大块肥肉的感觉。</description>
+    </item>
+    
+    <item>
+      <title>测试站点对图片怎么处理</title>
+      <link>/post/2018/09/19/test-netlify-image-process/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/19/test-netlify-image-process/</guid>
+      <description>想知道，如果插入了图片，又不上传pulic文件夹，netlify上会怎么处理。
+插入下图。
+直接用Addins插的，没有设定宽，高之类。
+经过测试，表现良好，包括手机端和电脑端。</description>
     </item>
     
     <item>
@@ -76,7 +110,7 @@ pandoc转Word和Pdf写一个备忘，包括Mactex非全盘安装的方法； 瘐
 序曲：两种（法式和意大利式）
  法式是：慢板-快板-慢板
 意大利式：快板-慢板-快板
- </description>
+ 2018年9月19日注：十年过去了，网址已经不能用了。话说现在都智能手机时代了，估计都是APP听音乐了吧。</description>
     </item>
     
     <item>
