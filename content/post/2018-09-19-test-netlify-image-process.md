@@ -16,3 +16,5 @@ tags:
 ![一个美女](/post/2018-09-19-test-netlify-image-process_files/J7GX-fyrpeie3652549.jpg)
 
 直接用Addins插的，没有设定宽，高之类。
+
+经过测试，表现良好，包括手机端和电脑端。
