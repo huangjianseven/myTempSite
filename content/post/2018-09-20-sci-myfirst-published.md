@@ -1,7 +1,7 @@
 ---
-title: 第一篇SCI正式发表了
+title: 一篇失败的文章
 author: 黄俭
-date: '2018-09-20'
+date: '2018-09-21'
 slug: sci-myfirst-published
 categories:
   - Work
