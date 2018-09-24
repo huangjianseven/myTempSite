@@ -39,6 +39,6 @@ legend(loc='upper right')
 show()
 ```
 执行结果如下图，Python版本： 2.7。
-![光强三合一](/post/2018-09-22-python-data-processing_files/raw_3_in_one.jpg)
+![光强三合一](/note/2018-09-22-python-data-processing_files/raw_3_in_one.jpg)
 
-数据文件在[这里](/post/2018-09-22-python-data-processing_files/MyBlog_python.zip)下载。
+数据文件在[这里](/note/2018-09-22-python-data-processing_files/MyBlog_python.zip)下载。

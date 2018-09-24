@@ -13,6 +13,8 @@ tags:
 
 doi: 10.3390/mi9100478
 
+Title: Miniaturized NIR Spectrometer Based on Novel MOEMS Scanning Tilted Grating
+
 [Abstract](http://www.mdpi.com/2072-666X/9/10/478)
 
 [PDF Version](http://www.mdpi.com/2072-666X/9/10/478/pdf)

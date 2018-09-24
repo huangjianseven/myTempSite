@@ -30,7 +30,10 @@ footnotereturnlinkcontents = "↩"
     name = "TODO"
     url = "/TODO/"
     weight = 4
-    
+[[menu.main]]
+    name = "Work"
+    url = "/note/"
+    weight = 5  
 [params]
     description = "Powered by Hugo"
     footer = "&copy; [Jian Huang](https://huangjianseven.name) 2008 - 2018 | [Github](https://github.com/huangjianseven) | [Twitter](https://twitter.com/spirulina)"
