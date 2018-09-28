@@ -1,6 +1,8 @@
 ---
-title: Jian Huang's Website
+title: Jian Huang's Home
 author: Jian Huang
 date: '2018-09-19'
 ---
-# Welcome to Jian Huang's Website
+# Welcome to Jian's Website
+
+
