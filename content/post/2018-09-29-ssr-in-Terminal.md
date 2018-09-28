@@ -8,7 +8,11 @@ categories:
 tags:
   - computer
 ---
+<<<<<<< HEAD
 有时，在终端执行hugo或下载一些包时，经常会被一个qiang所阻。就在网上搜了下解决办法，希望在Terminal也能顺畅上网。
+=======
+有时，在终端执行hugo或下载一些包时，经常会被功夫墙所阻。就在网上搜了下解决办法，希望在Terminal也能科学上网。
+>>>>>>> a921a426c822c4f05b5301545b61daab03ffb5d8
 
 果然有简易办法，参见[这里](https://github.com/Dream4ever/knowledge-base/issues/55)。
 
