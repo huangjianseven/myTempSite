@@ -24,3 +24,15 @@ tags: []
 目前域名：http://huangjianzone.netlify.com
 
 Hugo version: 0.48
+
+以上工作是在Mac系统上完成的，Windows下幺蛾子比较多，遇到的有以下：
+
+1. 经常无法调出中文输入法
+1. 刚开始建站时执行`blogdown::install_hugo`时，遇到错误，信息为
+    - `Error in file(con, "r") : cannot open the connection
+In addition: Warning message:
+In file(con, "r") : InternetOpenUrl failed: '无法与服务器建立连接'`
+
+后来，手工安装Hugo解决，参考文档见[这里](https://github.com/rstudio/blogdown/issues/244)。
+
+各版本Hugo在[这里](https://github.com/gohugoio/hugo/releases)下载。
