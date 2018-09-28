@@ -19,6 +19,8 @@ tags:
  ![904](/note/2018-09-24-Filters-measure_files/after_calibration904.png)
  - 950nm Filter
  ![950](/note/2018-09-24-Filters-measure_files/after_calibration950.png)
+ - 900nm 长波通波色片
+ ![900LP](/note/2018-09-24-Filters-measure_files/after_calibration900LP.png)
 1. 然后再把手上所有的滤色片列一个表，以资备忘。
 
 |    编号| Wavelength(nm)|      备注|
@@ -44,3 +46,7 @@ tags:
 |      19|   800 LongPass|估计已装机|
 
 今天再测一下900nm长波通的谱，然后测一下我光谱仪的半波带宽，也测一下德国光谱仪的半波带宽。
+
+今天的数据，虽然还没有分析，但是感觉公式法标定误差减小了许多。可能是因为用了1300nm滤色片来定位平衡点。
+
+如果确实误差小了，那么我的线性化标定法将大显身手。
