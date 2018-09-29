@@ -59,3 +59,22 @@ show()
 
 TQ公司irSys测的
 ![TQ](/note/2018-09-24-spectrometer-Comparison_files/Absorbance_TQ.png)
+
+最后再补一张TQ公司光谱仪测的纯水与乙醇吸光度对比图。
+
+![irSys纯水与乙醇吸光度对比](/note/2018-09-24-spectrometer-Comparison_files/Figure1_small.png)
+
+这张图是用Python 3画的，画风跟Python 2.7还是不一样。另外，如果要输出高DPI文件的话，用下面的代码。
+```python
+plot(Wavelength,absorbance1,label='Pure Water')
+plot(Wavelength,absorbance2,label='Ethanol')
+
+xlabel('Wavelength(nm)')
+ylabel('Absorbance(a.u.)')
+
+grid(linestyle='--', linewidth=0.5)
+legend(loc='upper left')
+#show()
+
+savefig('Figure1.png',dpi=300, format='png')
+```
