@@ -1,0 +1,45 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "儉 | Jian"
+theme = "hugo-ivy"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+
+[[menu.main]]
+    name = "主页"
+    url = "/home/"
+    weight = 1
+[[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "博客"
+    url = "/post/"
+    weight = 3
+[[menu.main]]
+    name = "TODO"
+    url = "/TODO/"
+    weight = 4
+[[menu.main]]
+    name = "Work"
+    url = "/note/"
+    weight = 5  
+[params]
+    description = "Powered by Hugo"
+    footer = "&copy; [Jian Huang](https://huangjianseven.name) 2008 - 2018 | [Github](https://github.com/huangjianseven) | [Twitter](https://twitter.com/spirulina)"
+
+
+  highlightjsVersion = "9.12.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml", "tex", "python"]
+  highlightjsTheme = "github"
