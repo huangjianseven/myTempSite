@@ -25,6 +25,7 @@ tags:
 
 参考资料：
 
-1. 安装Python3的，在[这里](https://www.cnblogs.com/mqxs/p/8692870.html)
+1. 安装Python3的，在[这里](https://www.cnblogs.com/mqxs/p/8692870.html)。装的时候没有找到db4-devel这个包。手动下载了libdb4-4.8.30-13.el7.x86_64.rpm和
+libdb4-devel-4.8.30-13.el7.x86_64rpm，然后RPM方式装上。
 
 2. Grub2配置双系统启动的，在[这里](https://blog.csdn.net/qq_37359328/article/details/80928007)，按他的步骤，我又被安装了一个内核，不知道怎么回事，先这样吧。
