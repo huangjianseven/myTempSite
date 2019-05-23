@@ -31,3 +31,5 @@ libdb4-devel-4.8.30-13.el7.x86_64rpm，然后RPM方式装上。
 2. Grub2配置双系统启动的，在[这里](https://blog.csdn.net/qq_37359328/article/details/80928007)，按他的步骤，我又被安装了一个内核，不知道怎么回事。
 
 3. 在实验室的电脑上装CentOS 7，装完启动桌面后花屏，估计是显卡驱动问题。网上找了相关答案，在[这里](https://ask.csdn.net/questions/220757)。用他的方法虽然没有解决问题，但是启发了我。因为我是一块HD6670的显卡，AMD公司出品，又联想到十几年前AMD收购了Ati公司，所以我就装了个xorg-x11-drv-ati.x86_64，重启后问题解决。:-)
+
+4. linux course update problem
