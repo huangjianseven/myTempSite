@@ -163,4 +163,5 @@ libdb4-devel-4.8.30-13.el7.x86_64rpm，然后RPM方式装上。
 
      - Grub2配置双系统启动的，在[这里](https://blog.csdn.net/qq_37359328/article/details/80928007)，按他的步骤，我又被安装了一个内核，不知道怎么回事。
      - Markdown 支持的代码块高亮见[这里](https://blog.csdn.net/shepherd_dirk/article/details/84646379)
+     - 安装EPEL源，参考[这里](https://www.cnblogs.com/renpingsheng/p/7845096.html)
 
