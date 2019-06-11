@@ -103,7 +103,7 @@ tags:
     - 重启FTP服务，ftproot应该可以登录了
     
       ```shell
-       # systemctl restart vsftpd.conf
+       # systemctl restart vsftpd.service
       ```
     - 将用户限制在其主目录
        
