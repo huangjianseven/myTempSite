@@ -10,6 +10,8 @@ tags:
 ---
 ## 2019年5月下旬Linux桌面工作环境配置笔记(草稿)
 
+PS: 2019年11月16日有更新
+
 教这门课，不能只讲命令行，稍带研究下如何安装配置一个可用的桌面版Linux.
 
 版本：CentOS
@@ -20,10 +22,13 @@ tags:
     - [X] 安装Python3
     - [X] 浏览器中实现Flash
     - [ ] 安装RIME输入法，中州韵
-    - [ ] 安装听歌软件网易云
+    - [X] 安装听歌软件网易云
     - [ ] 安装影音播放器Myplayer
     - [ ] 安装类似几何画板软件GeoGeBra
     - [X] Blogdown
+    - [X] 安装Linux Mint
+    - [X] 安装腾讯官方新版QQ
+    
 1. 在实验室的电脑上装CentOS 
    装完启动桌面后花屏，估计是显卡驱动问题。网上找了相关答案，在[这里](https://ask.csdn.net/questions/220757)。用他的方法虽然没有解决问题，但是启发了我。因为我是一块HD6670的显卡，AMD公司出品，又联想到十几年前AMD收购了Ati公司，所以我就装了个xorg-x11-drv-ati.x86_64，重启后问题解决。:-)
 1. Linux应用实践课程网站更新故障
@@ -92,10 +97,22 @@ tags:
      ```
 1. 安装fcitx
 1. 让RStudio能够输入中文
-     - 这个问题比较难搞，[参考文献1](https://www.csslayer.info/wordpress/fcitx-dev/a-case-study-how-to-compile-a-fcitx-platforminputcontext-plugin-for-a-proprietary-software-that-uses-qt-5/)，[参考文献2](https://forums.debiancn.org/t/topic/1206)，以及[这里](https://bbs.deepin.org/forum.php?mod=viewthread&tid=149730)
+     - 这个问题比较难搞，[参考文献1](https://www.csslayer.info/wordpress/fcitx-dev/a-case-study-how-to-compile-a-fcitx-platforminputcontext-plugin-for-a-proprietary-software-that-uses-qt-5/)，[参考文献2](https://forums.debiancn.org/t/topic/1206)，以及[这里](https://bbs.deepin.org/forum.php?mod=viewthread&tid=149730)，还有[这里](https://github.com/JackieMium/my_blog/issues/12)
+     - 官网关于QT的编译也应该看一看，点[这里](https://doc.qt.io/qt-5/linux.html)
      - 第一步是确定RStudio使用的QT版本，见下图
      
      <img src="/post/2019-05-18-linux-Installation-Gnome_files/Detect_the_version_of_QT.png" alt="" width="85%"/>
+     
+     - 我的编译选项
+        
+         ```shell
+          $ ./configure --prefix=/opt/qt5.12.1 -no-openssl -no-opengl
+         ```
+     - 最后的拷贝稍有不同，可能与新版本的RStudio有关(1.2.5019)
+          
+         ```shell
+           $ sudo cp /opt/qt5.12.1/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so /usr/lib/rstudio/plugins/platforminputcontexts/
+         ```
      
 1. 安装TexLive 2019
     - 参照的文献在[这里](https://www.jianshu.com/p/3b3a6f1f11bc)，注意他的这条命令
