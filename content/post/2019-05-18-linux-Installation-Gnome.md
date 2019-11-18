@@ -202,3 +202,29 @@ libdb4-devel-4.8.30-13.el7.x86_64rpm，然后RPM方式装上。
            ```shell
            # mount_msdosfs -L zh_CN.GBK /dev/ad0s7 /mnt/F
            ```
+1. Linux中的文献管理软件Me
+
+1. Linux下如何打开相机RAW文件
+    - darktable
+    - digiKam
+    - RawTherapee
+    - Photivo
+1. Linux下的PhotoShop
+    - GIMP
+    
+1. Linux下安装主题
+    - 11 Best Linux Mint Themes. 点[这里](https://linuxhint.com/11_best_linux_mint_themes/)
+    - 上述主题中，我对Evopop感兴趣，主要是背景照片太带感
+    
+1. Linux下如果用Chrome，可以有泼辣修图，或微信网页版插件之类
+
+1. Linux下如果使用B0pass(百灵快传), 需要将CLI文件同路径下的files文件夹设为当前用户所有
+
+ ```shell
+  $ sudo chown -R huangjian:huangjian files/
+ ```
+1. Linux下备份还原用TimeShift
+    - 参考文献点[这里](https://linuxhint.com/timeshift_linux_mint_19_usb/)
+
+1. Linux下的pdf阅读和笔记工具
+    - skim能用吗？
