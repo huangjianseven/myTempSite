@@ -23,7 +23,7 @@ PS: 2019年11月16日有更新
     - [X] 浏览器中实现Flash
     - [X] 安装RIME输入法，中州韵
     - [X] 安装听歌软件网易云
-    - [ ] 安装影音播放器Myplayer
+    - [X] 安装影音播放器VLC
     - [ ] 安装类似几何画板软件GeoGeBra
     - [X] Blogdown
     - [X] 安装Linux Mint
