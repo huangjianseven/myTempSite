@@ -21,7 +21,7 @@ PS: 2019年11月16日有更新
     - [X] 双系统，Win7+CentOS7，Grub2管理双系统的启动
     - [X] 安装Python3
     - [X] 浏览器中实现Flash
-    - [ ] 安装RIME输入法，中州韵
+    - [X] 安装RIME输入法，中州韵
     - [X] 安装听歌软件网易云
     - [ ] 安装影音播放器Myplayer
     - [ ] 安装类似几何画板软件GeoGeBra
