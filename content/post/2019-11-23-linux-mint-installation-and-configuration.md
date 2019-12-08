@@ -204,4 +204,4 @@ tags:
     - Linux下已经装了官方的HP打印机驱动，插上打印机后虽然不能立即打印，但重启一下就可以了
 
 1. Linux下学习PHP
-    - [“思过崖”网站](http://www.siguoya.name/pc/home/article/14)
+    - [“思过崖”网站](http://www.siguoya.name/pc/home/article/14  )
