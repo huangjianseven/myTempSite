@@ -183,6 +183,25 @@ tags:
 
 1. photoshop cs6的序列号：1330-1058-7438-6699-6715-0898，安装前断网。
 
-1. 中文乱码问题，有一个临时解决方案，启动环境前加env LC_ALL=zh_CN.UTF-8
+1. Wine程序中的中文乱码问题，有一个临时解决方案，启动环境前加env LC_ALL=zh_CN.UTF-8
   
+1. Linux Mint下面重设root密码，见[这里](https://www.jianshu.com/p/f22fb29ec53a)
 
+    ```shell
+     $ sudo passwd root
+    ```
+    
+1. Linux下解压缩RAR文件
+    - 要装p7zip, 或者unrar。我试了前者。
+     
+     ```shell
+      $ sudo apt install p7zip-full p7zip-rar
+      $ 7z x  filename.rar
+     ```
+     
+1. Linux下打印机配置的问题
+    - 其实就是CUPS的配置，看[这里]( http://www.siguoya.name/pc/home/article/172)
+    - Linux下已经装了官方的HP打印机驱动，插上打印机后虽然不能立即打印，但重启一下就可以了
+
+1. Linux下学习PHP
+    - [“思过崖”网站](http://www.siguoya.name/pc/home/article/14)
