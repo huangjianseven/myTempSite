@@ -229,6 +229,11 @@ libdb4-devel-4.8.30-13.el7.x86_64rpm，然后RPM方式装上。
 1. Linux下的pdf阅读和笔记工具
     - skim能用吗？不能用
     
-1. 安装MPlayer
+1. Mint下安装MPlayer
     - 装了mplayer, mplayer-gui, mplayer-skins，mplayer-fonts, 还装了imagemagick。但仍是有错误，看[这里](https://askubuntu.com/questions/943068/error-in-skin-config-file-with-mplayer)
     - 打开一个mp4，但是没有图像，只有声音，换个解码器(driver)就好了。
+    
+1. Mint下安装Geogebra Classic
+    - 直接装官网的deb包会有依赖错误
+    - 用新立得软件包管理器装libcanberra-gtk0
+    - 然后用apt装libcanberra-gtk-module
