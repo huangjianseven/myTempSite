@@ -238,3 +238,6 @@ libdb4-devel-4.8.30-13.el7.x86_64rpm，然后RPM方式装上。
     - 直接装官网的deb包会有依赖错误
     - 用新立得软件包管理器装libcanberra-gtk0
     - 然后用apt装libcanberra-gtk-module
+
+1. Arch系pacman命令笔记
+    - 看[这里](https://blog.csdn.net/lu_embedded/article/details/50520647)
