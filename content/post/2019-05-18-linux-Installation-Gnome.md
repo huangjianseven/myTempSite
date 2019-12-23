@@ -241,3 +241,23 @@ libdb4-devel-4.8.30-13.el7.x86_64rpm，然后RPM方式装上。
 
 1. Arch系pacman命令笔记
     - 看[这里](https://blog.csdn.net/lu_embedded/article/details/50520647)
+  
+1. 在Manjaro下编译安装了mplayer
+    - 参考文献在[这里](http://www.linuxfromscratch.org/blfs/view/svn/multimedia/mplayer.html)。
+    - make install 之后还是要装皮肤，不然无法启动GUI
+    
+1. 删除MAC BOOK PRO上的GRUB
+    - 前段时间在Mac上装了一个双系统，现在把Linux删掉了，但是重启Mac后还是会进入Grub。在网上找到一个方法，点[这里](https://www.techonia.com/1063/remove-grub-bootloader-macbook-pro-air-imac)。
+    - 为防失联，录在下面
+    
+       ``` shell
+        $ mkdir mnt (I assume that no mnt folder before)
+
+        $ sudo mount -t msdos /dev/disk0s1 mnt
+ 
+        $ cd mnt/EFI/
+
+        $ sudo rm -rf ubuntu 
+
+        $ sudo reboot
+       ```
