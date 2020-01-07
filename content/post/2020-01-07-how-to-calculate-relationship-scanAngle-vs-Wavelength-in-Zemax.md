@@ -74,6 +74,9 @@ tags:
     
 ![](/post/2020-01-07-how-to-calculate-relationship-scanAngle-vs-Wavelength-in-Zemax_files/Linear_fit_web.jpg)
 
+1. Zemax文件
+    - 点击[这里](/post/2020-01-07-how-to-calculate-relationship-scanAngle-vs-Wavelength-in-Zemax_files/ZEMAX_optical_Design_Wavelength-vs_Scan_Angle.7z)下载。
+
 1. 参考文献
     
     - https://tableconvert.com/
