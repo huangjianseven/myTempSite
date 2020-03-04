@@ -162,6 +162,16 @@ tags:
 1. Linux Mint下安装QQ和微信
     - 采用deepin的版本比较好，git装好wine的环境，然后下载一个容器（就是些应用，每个应用使用一个容器）
     - 微信偶尔有个别乱码，特别是在发表情时，这个无伤大雅。刚装好时，无法预览好友发的图片，后来装个包就好了。点[这里](https://www.lulinux.com/archives/1319).
+    - 这两个软件装好之后，字体发虚，看着累。解决办法是装文泉驿字体和Windows下的微软雅黑字体。装前者，看[这里](https://www.cnblogs.com/jay998/p/10613208.html)，装后者，看[这里](https://www.cnblogs.com/intervention/p/4020352.html)。这两个步骤完成之后，Linux Mint中的字体设置照装文泉驿字体那个链接去做就可以了。
+    - 启动QQ或微信之后，字体是没有啥问题了，可是QQ的聊天框标题是小方框乱码。这时就执行以下命令可解决。参考文献见[这里](https://askubuntu.com/questions/1159838/steam-font-is-all-white-squares)。
+    
+    ``` shell
+     $ sudo apt install ttf-mscorefonts-installer
+     $ sudo fc-cache -f
+    ```
+    下图是系统字体原先的配置，万一想恢复时备忘。
+    
+    ![](/post/2019-11-23-linux-mint-installation-and-configuration_files/20200304212400.jpg)
     
 1. Linux Mint下打开摄像头
     - 参考文献看这里^[Set up a Webcam with Linux, (http://www.linuxintro.org/wiki/Set_up_a_Webcam_with_Linux)]，我的小麦3摄像头没有被驱动，还不知道怎么操作。
