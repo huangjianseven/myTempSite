@@ -215,3 +215,12 @@ tags:
 
 1. Linux下学习PHP
     - [“思过崖”网站](http://www.siguoya.name/pc/home/article/14  )
+    
+1. Majaro下安装ExpressVPN, 看[这里](https://forum.manjaro.org/t/running-expressvpn-daemon-problem/20019/5)
+
+ ```shell
+  sudo cp /usr/lib/expressvpn/expressvpn.service  /etc/systemd/system/expressvpn.service
+  sudo systemctl daemon-reload
+  sudo systemctl start expressvpn.service 
+ ```
+  
