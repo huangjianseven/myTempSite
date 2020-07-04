@@ -49,5 +49,14 @@ tags:
 ```
 1. 检查利用密码词典暴力破解
 ```shell
- aircrack-ng data-01.cap -w ./crackstation-human-only.txt
+ $ aircrack-ng data-01.cap -w ./crackstation-human-only.txt
+```
+1. 用screen命令挂机执行
+```shell
+ $ screen -S wifihack aircrack-ng data-01.cap -w ./crackstation-human-only.txt
+```
+1. 唤回screen
+```shell
+ $ screen -ls
+ $ screen -r wifihack #id
 ```
