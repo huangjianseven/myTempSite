@@ -28,6 +28,7 @@ tags:
 
 1. yum安装PHP7.2
     - 有些周折，包括gd库和libraqm
+    - 包含PHP7.2的安装源，看[这里](https://blog.centos.org/2018/01/php-7-2-for-centos-7-armhfp/)
     
 1. 配置LAMP并安装WordPress，我参考[这里](https://blog.csdn.net/hwh1996/article/details/90666775)。期间数据库密码莫名其妙丢失，然后参考[这里](https://developer.aliyun.com/article/483579)解决。
     - WordPress初运行时，写文章和编辑文章时卡死，后来装一个经典编辑器，问题解决。
