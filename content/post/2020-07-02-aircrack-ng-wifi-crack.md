@@ -60,3 +60,6 @@ tags:
  $ screen -ls
  $ screen -r wifihack #id
 ```
+1. Mac 系统下的操作
+    - 详细的参考见[这里](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)。
+    - 软件的安装见[这里](https://blog.csdn.net/wank1259162/article/details/104875834), CentOS 7下的安装在这个网页中也有描述。

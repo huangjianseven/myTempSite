@@ -34,3 +34,18 @@ tags:
      ```shell
        masscan --rate=1000 -p21,22,23,25,U:69,110,143,U:161,80,81,82,83,88,443,445,512,513,514,1433,1521,2082,2083,2181,2601,2604,3128,3690,4848,8088,8086,8081,8080,3306,5432,3389,5984,6379,7001,7002,8069,9200,9300,11211,10000,27017,27018,50000,50070,50030 --banners  220.163.106.148 220.163.106.149 220.163.106.151 220.163.106.143 220.163.106.156 220.163.106.152 220.163.106.154 -oL port_hacking.txt 
       ```
+    - [vnc漏洞利用及vnc漏洞利用工具](https://blog.foolbird.net/453.html)
+    - [远程桌面RDP漏洞扫描](https://github.com/robertdavidgraham/rdpscan)
+    - [端口对应服务的相应漏洞](https://www.cnblogs.com/jiangyatao/p/12193430.html)
+    - [常见端口漏洞信息解析](https://blog.csdn.net/zhouwei1221q/article/details/47806919?utm_source=blogxgwz5)
+    - [端口渗透总结](https://www.cnblogs.com/zhencool/p/11142278.html)
+    - [按5次shift的粘滞键利用](http://429006.com/article/technology/528.htm)
+    - [微软3389远程漏洞CVE-2019-0708批量检测工具](https://www.cnblogs.com/17bdw/p/11484160.html)
+    - [windows RDP远程代码执行_CVE-2019-0708漏洞复现](https://www.cnblogs.com/yuzly/p/11197021.html)
+    - [微软RDP远程代码执行漏洞（CVE-2019-0708）分析集锦](https://www.freebuf.com/vuls/205380.html)
+    - [RDP远程桌面执行漏洞 CVE-2019-0708](https://www.jianshu.com/p/400fc54b447f)
+    - [CVE0708本地搭建，渗透提权](https://www.jianshu.com/p/c7859788ff43)
+    - [CVE-2019-0708远程桌面漏洞验证和利用](https://www.jianshu.com/p/eff45e54da38)
+    - [CVE-2019-0708漏洞复现](https://blog.csdn.net/Becktick/article/details/91138712)
+    - [CVE-2019-0708 RDP MSF漏洞利用](https://www.cnblogs.com/Oran9e/p/11479575.html)
+    - [网络安全的现状与重要性](https://www.sohu.com/a/353272675_653604)
