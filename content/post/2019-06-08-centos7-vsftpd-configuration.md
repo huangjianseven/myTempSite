@@ -17,7 +17,7 @@ tags:
 1. 修改配置文件
 
      ```shell
-      # vim /etc/vsfptd/vsftpd.conf
+      # vim /etc/vsftpd/vsftpd.conf
      ```
    
 1. 第一轮操作
@@ -34,7 +34,7 @@ tags:
          
          listen_ipv6=NO # ipv6监听模式关闭
         ```
-    - 去除SELinux的影响
+    - 去除SELinux的影响（复杂）
        - 先查状态
        
         ```shell
@@ -67,6 +67,14 @@ tags:
       ```shell
        # getsebool -a | grep ftp
       ```
+      
+    - 直接关闭SELinux（简单粗暴）
+       - 修改SELinux的配置文件，保存后马上重启
+       
+      ```shell
+        # vim /etc/selinux/config
+      ```
+       
         
 1. 启动FTP服务并配置开机自启动
 
