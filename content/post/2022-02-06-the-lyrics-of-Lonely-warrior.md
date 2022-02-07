@@ -74,7 +74,18 @@ tags:
 
 # Lonely Warrior
 
-> Love how you stand on your own  
+> You know, the bravest souls  
+Are wearing all their bruises, scars and wounds, they're all on show  
+Don't hide, no need to hide  
+The fissures in the mask, you wear concealing your true side  
+They said go  
+Said go and tame every monster with your light  
+They said go  
+Fight every single fight like this is your last fight  
+Not every hero wears a golden crown  
+Or hears the sound of glory from the crowd  
+Who said heroes can't be found here on the ground  
+Love how you stand on your own  
 Won't bow down to anyone  
 Love how you keep fighting on  
 When all hope is gone  
@@ -85,4 +96,38 @@ Both refuse to die
 Go now? Should I? Wearing these ragged clothes  
 I'll fight, survive, to keep my dream alive  
 For the meekest and the valiant beat my foes  
-Who said heroes can't be ordinary souls
+Who said heroes can't be ordinary souls  
+They said go  
+The seeds of your demise now have already been sewn  
+Before you know  
+Your head is hanging low your friends lined up in a row  
+No matter how much rain and winds may blow  
+Still we will make a stand here all alone  
+Who said ordinary players aren't heroes  
+Love how you stand on your own  
+Won't bow down to anyone  
+Love how you keep fighting on  
+When all hope is gone  
+Love how you refuse to cry  
+Block your fate eye for an eye  
+We're so similar you and I  
+Both refuse to die  
+Go now? Should I? Wearing these ragged clothes  
+I'll fight, survive, to keep my dream alive  
+For the meekest and the valiant beat my foes  
+Who said heroes can't be ordinary souls  
+你的斑驳与众不同  
+你的沉默震耳欲聋  
+Love how you stand on your own  
+Won't bow down to anyone  
+Love how you keep fighting on  
+When all hope is gone  
+Love the glory's all your own  
+Step into the danger zone  
+You can build the world you won  
+On top of ruined stones  
+Go now! Go now!  
+To keep my dream alive  
+I'll fight, survive, give everything my life  
+For the meekest and the valiant beat my foes  
+Who said heroes can't be ordinary souls  
