@@ -10,6 +10,10 @@ tags:
 ---
 
 # 孤勇者
+作词：唐恬  
+作曲：钱雷  
+编曲：钱雷  
+原唱：陈奕迅(Eason Chan)
 
 > 都 是勇敢的  
 你额头的伤口  
@@ -73,6 +77,7 @@ tags:
 谁说站在光里的才算英雄  
 
 # Lonely Warrior
+Written by: Shaun Gibson  
 
 > You know, the bravest souls  
 Are wearing all their bruises, scars and wounds, they're all on show  
@@ -131,3 +136,5 @@ To keep my dream alive
 I'll fight, survive, give everything my life  
 For the meekest and the valiant beat my foes  
 Who said heroes can't be ordinary souls  
+
+这英文版明显是在中文出来之后才填的词，Shaun Gibson也是经常把中文歌搬运成英文，我知道的有《If I Stay》,《心在云南》。
