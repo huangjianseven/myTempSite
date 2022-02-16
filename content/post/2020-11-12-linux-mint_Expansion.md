@@ -15,9 +15,9 @@ tags:
 1. 准备
     - 安装GParted，然后删除Win中的一个空闲逻辑分区，并格式化为EXT4. 硬盘分区情况如下两图所示。
     
-   ![固态硬盘](http://123.56.98.124:8080/picLIB/upload/15/Gparted_01.png)
+   ![img](http://123.56.98.124:8080/picLIB/upload/15/Gparted_01.png)
     
-   ![机械硬盘](http://123.56.98.124:8080/picLIB/upload/15/Gparted_02.png)
+   ![img](http://123.56.98.124:8080/picLIB/upload/15/Gparted_02.png)
    
 
 [^1]: [ubuntu 添加新分区，并挂载/home](https://www.cnblogs.com/bigben0123/p/12988656.html)
