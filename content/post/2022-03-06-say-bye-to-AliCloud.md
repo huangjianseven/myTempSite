@@ -132,4 +132,4 @@ method="POST">
  ```shell
   # cd /var/snap/nextcloud/current/nextcloud/config
  ```
-
+要说远程控制命令行软件哪个好，当然是MobaXterm，集putty和scp于一身，还有其它功能（没试过）。
