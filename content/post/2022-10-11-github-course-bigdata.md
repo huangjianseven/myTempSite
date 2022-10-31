@@ -16,3 +16,5 @@ tags:
 1. [秋霞视频网](http://www.xqiuxia.com/play/XMjk1MDg5MjgyNA==.html)
 1. [大数据框架学习](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0/Hadoop-MapReduce.md#%E5%9B%9BMapReduce%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E6%A1%88%E4%BE%8B)
 1. [MapReduce](https://ancrazyking.github.io/)
+1. [github上的数据集github archive](https://www.gharchive.org/)
+1. [CS自学指南](https://csdiy.wiki/)
