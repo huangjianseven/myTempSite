@@ -81,3 +81,5 @@ tags:
 1. 模运算公式
     - `$y\ mod\ x\ =\ y-\lfloor\frac{y}{x}\rfloor\cdot x$`
     - 例子：`$-20\ mod\ 7\ =\ -20\ -\lfloor\frac{-20}{7}\rfloor\cdot7=-20+21=1$`
+    
+1. 对称密码算法之DES
