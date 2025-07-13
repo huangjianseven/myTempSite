@@ -26,3 +26,5 @@ tags:
 ```
 
 1. 用开源的音频编辑软件Audacity，将错题整理成一个MP3，其中一些“叮”的声音，从网站[爱给网](https://www.aigei.com)下载。Audacity一开始还不容易上手，但是把它想像成音频界的Photoshop就可以从它的设计哲学上理解它，就好操作了。
+
+1. 后面做音频有点烦了，就用了B站上土妹老师的视频，地址：[土妹教英语](https://www.bilibili.com/video/BV1sG4y1n7Da)，一共25套题，配套的材料pdf可以在土妹的公众号下载。
