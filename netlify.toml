@@ -1,0 +1,10 @@
+# This version supports the existing hugo-ivy theme and has Extended binaries.
+[build]
+  base = "."
+  # Publish committed posts even when their local date is still tomorrow in UTC.
+  # Keep unfinished posts private with draft: true.
+  command = "hugo --buildFuture"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.58.3"
