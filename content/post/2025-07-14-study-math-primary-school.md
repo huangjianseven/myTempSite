@@ -1,5 +1,6 @@
 ---
 title: 学习小学数学
+draft: true
 author: 黄俭
 date: '2025-07-14'
 slug: study-math-primary-school
