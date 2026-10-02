@@ -1,5 +1,5 @@
 ---
-title: 本次会话整理
+title: 何种大模型适合哪种工作
 author: 黄俭
 date: '2026-10-03'
 slug: session-summary
