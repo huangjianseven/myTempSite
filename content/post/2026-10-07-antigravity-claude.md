@@ -1,5 +1,5 @@
 ---
-title: 谷歌的Antigravity居然可以调用Claude的模型
+title: 谷歌的Antigravity调用Claude Opus 5.5
 author: 黄俭
 date: '2026-10-07'
 slug: antigravity-claude
