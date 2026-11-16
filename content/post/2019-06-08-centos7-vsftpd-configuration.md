@@ -41,7 +41,7 @@ tags:
          # getsebool -a | grep ftp
         ```
           显示结果
-        
+       
         ```bash
          ftpd_anon_write --> off
          ftpd_connect_all_unreserved --> off
@@ -74,8 +74,8 @@ tags:
       ```shell
         # vim /etc/selinux/config
       ```
-       
-        
+      
+    
 1. 启动FTP服务并配置开机自启动
 
     ```shell
@@ -94,9 +94,10 @@ tags:
        - 打开防火墙，同时为FTP的访问（读与写）开放端口
        - 另建用户，用以上传文件
     - 新建一用户，用户名为ftproot，并设置密码，资源目录位于/var/ftp/huang/
-       
-       ```shell
+      
+       ```bash
         # useradd -d /var/ftp/huang -g ftp -s /sbin/nologin ftproot
+        # passwd ftproot
        ```
     - 防止pam过度验证
     
@@ -114,7 +115,7 @@ tags:
        # systemctl restart vsftpd.service
       ```
     - 将用户限制在其主目录
-       
+      
        ```bash
         chroot_local_user=YES
         chroot_list_enable=YES
@@ -122,12 +123,12 @@ tags:
       ```
       将上面创建的ftproot添加到chroot_list中，让其成为例外，从而可以用它上传文件
       
-    - 解决下面的错误
+    - 解决下面的错误[没有此种错误就跳过]
     
        ![](/post/2019-06-08-centos7-vsftpd-configuration_files/chroot_ftp_500_error.png)
        
     - 去除该用户目录的write权限就好了
-        
+      
            ```shell
             # chmod -R  a-w /var/ftp/huang/
            ```
@@ -135,7 +136,7 @@ tags:
            
            ```shell
             # mkdir /var/ftp/huang/EBook
-            # chown ftproot:ftp Ebook/
+            # chown ftproot:ftp EBook/
            ```
     - 防火墙重新布置
     
@@ -161,6 +162,6 @@ tags:
            # firewall-cmd --reload
            # systemctl restart vsftpd
           ```
-          
+    
 1. 我的配置文件
     - 点[这里](/post/2019-06-08-centos7-vsftpd-configuration_files/vsftpd.conf)下载
